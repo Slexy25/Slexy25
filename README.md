@@ -6,7 +6,7 @@
 
 Building practical, user-focused digital solutions.
 
-[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-marinho/) · [GitHub](https://github.com/Slexy25)
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-marinho/)
 
 ### Languages
 
